@@ -1,0 +1,1 @@
+{"description":"One-line review of the most boring everyday object (the doorstop) for a make.fun bounty","name":"boring-object-review","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
